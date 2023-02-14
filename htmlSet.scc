@@ -1,0 +1,11 @@
+.hr{
+border-top: 5px solid #000;
+}
+.subhr
+{
+  border-top: 2px solid #000;
+}
+
+h1{
+  text-align: center;
+}
